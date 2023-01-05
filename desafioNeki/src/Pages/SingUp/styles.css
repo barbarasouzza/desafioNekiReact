@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    border-bottom: 2px solid rgb(206, 205, 205);
+    box-shadow: 2px 5px 5px rgb(231, 231, 231);
+    
+}
+
+#logo {
+    text-align: center;
+}
+
+
+.logo {
+    width: 16%;
+    margin-left: 125px;
+}
+
+.login {
+    color: #00A181;
+    text-align: center;
+    margin: 28px;
+}
+
+.input {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.inputUser {
+    width: 25rem;
+    margin: 0.2rem;
+    border: 2px solid #ccc;
+    box-shadow: 1px 1px 2px #ccc;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+#button {
+    text-align: center;
+    margin: 20px;
+}
+
+.button {
+    width: 25rem;
+    margin: 0.2rem;
+    border: 2px solid #00A181;
+    box-shadow: 1px 1px 2px #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    background: #00A181;
+    color: aliceblue;
+}

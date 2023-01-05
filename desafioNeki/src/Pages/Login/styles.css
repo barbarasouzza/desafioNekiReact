@@ -1,0 +1,76 @@
+body {
+    min-height: 100%;
+    background-color: #fdfdfd;
+}
+
+.ilustracao {
+    width: 110%;
+    padding: 8%;
+    
+}
+
+.container {
+    display: flex;
+    margin-left: 10%;
+}
+
+#login {
+    border: 2px solid rgb(206, 205, 205);
+    border-radius: 15px;
+    box-shadow: 2px 10px 10px rgb(197, 197, 197);
+    margin-top: 7%;
+    height: 20rem;
+    width: 30rem;
+    flex-direction: row;
+    
+}
+
+.login {
+    color: #00A181;
+    text-align: center;
+    margin: 28px;
+}
+
+.input {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.inputUser {
+    width: 25rem;
+    margin: 0.2rem;
+    border: 2px solid #ccc;
+    box-shadow: 1px 1px 2px #ccc;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+#button {
+    text-align: center;
+    margin: 20px;
+}
+
+.button {
+    width: 25rem;
+    margin: 0.2rem;
+    border: 2px solid #00A181;
+    box-shadow: 1px 1px 2px #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    background: #00A181;
+    color: aliceblue;
+}
+
+.button:hover {
+    background: #027062;
+    transition: 1s;
+}
+
+.cadastro {
+    text-align: center;
+}
+
+.navbar-item {
+    color: rgb(73, 68, 68);
+    text-decoration: none;
+}
